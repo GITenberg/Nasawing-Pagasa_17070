@@ -1,0 +1,25 @@
+_repo: Nasawing-Pagasa_17070
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17070-h/images/cover_big.jpg
+creator:
+  author:
+    agent_name: De los Reyes, Angel
+    alias: Reyes, Angel de los
+    gutenberg_agent_id: '7140'
+    url: http://www.gutenberg.org/2009/agents/7140
+description: ''
+gutenberg_issued: '2005-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17070'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tagalog fiction'
+- !lcc 'PL'
+title: Nasawing Pagasa
+url: http://www.gutenberg.org/ebooks/17070
